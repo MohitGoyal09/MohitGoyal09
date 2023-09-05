@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Website**
 
-- 🌱 I’m currently learning **JS/React.JS**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 🤝 I’m looking for help with **web devlopment,Data science,AI &ML**
 

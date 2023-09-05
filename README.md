@@ -32,7 +32,15 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Mohit09"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Mohit09" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitgoyal09&show_icons=true&locale=en" alt="mohitgoyal09" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitgoyal09&" alt="mohitgoyal09" /></p>
+
+
+
+<details>
+  <summary>:zap: Github Stats</summary> 
+
+![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=MohitGoyal09&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohitGoyal09&layout=compact&theme=radical)
+ <a href="http://www.github.com/scottwright-dev"><img src="https://github-readme-streak-stats.herokuapp.com?user=MohitGoyal09&theme=dark" /></a>
+</details>
 

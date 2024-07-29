@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Data Structures & Algorithms.<br><br>🌱 I’m presently learning AI/ML<br><br>🤝 I’m looking for help with web development, Data Science, AI/ML<br><br>📫 You can contact me at goel0632@gmail.com<br><br>👨‍💻 All of my projects are available at [coming-soon](coming-soon)<br><br>📄 See my portfolio at [coming-soon](coming-soon)<br><br>⚡ looking forward to learning and contributing in something new
+🔭 I’m currently working on Data Structures & Algorithms.<br><br>🌱 I’m presently learning AI/ML<br><br>🤝 I’m looking for help with web development, Data Science, AI/ML<br><br>📫 You can contact me at mohitgoyal09042006@gmail.com<br><br>📄 See my portfolio  [here](https://my-portfolio-theta-eosin-41.vercel.app/)<br><br>⚡ looking forward to learning and contributing in something new
 
 
 ## 🌐 Socials:

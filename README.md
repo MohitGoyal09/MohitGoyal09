@@ -32,7 +32,7 @@
 ### 🔷 track record
 
 ```
-1 arXiv Publication  ·  3 Internships  ·  68 Repos  ·  80 Followers
+2x arXiv + IEEE Publication   ·  3 Internships  ·  68 Repos  ·  80 Followers
 ```
 
 Currently **ML Researcher @ RAAPID INC** + **SWE Intern @ C3alabs** — pushing LLM research to production.

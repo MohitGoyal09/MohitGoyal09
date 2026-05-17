@@ -107,7 +107,7 @@ I build from zero. Whether it's implementing LLaMA straight from the paper, wiri
 ### 🏅 leetcode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/MohitGoyal09?theme=dark&font=Montserrat&border=0" />
+  <img src="https://leetcard.jacoblin.cool/Rockerleo?theme=dark&font=Montserrat&border=0" />
 </p>
 
 ---
@@ -129,5 +129,5 @@ If you're building production AI — agents, RAG, or LLM infrastructure — I wo
 ---
 
 <div align="center">
-  <sub>building in public as <a href="https://x.com/Mohitgoyal098">@Mohitgoyal098</a> · star a repo if it helped you ⭐</sub>
+  <sub>building in public as <a href="https://x.com/ByteMohit">@ByteMohit</a> · star a repo if it helped you ⭐</sub>
 </div>

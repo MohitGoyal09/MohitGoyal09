@@ -7,7 +7,7 @@
 "research tells me what's possible. building tells me what's true."
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-goyal09)
-[![X](https://img.shields.io/badge/@Mohitgoyal098-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Mohitgoyal098)
+[![X](https://img.shields.io/badge/@ByteMohit-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ByteMohit)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohitx.in)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitgoyal09042006@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mohit098)

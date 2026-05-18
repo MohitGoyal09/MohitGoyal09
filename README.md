@@ -36,31 +36,18 @@
 2x arXiv + IEEE Publication   ·  3 Internships  ·  14x hackathon wins  ·  80 Followers
 ```
 
-Currently **ML Researcher @ RAAPID INC** + **SWE Intern @ C3alabs** — pushing LLM research to production.
+Currently **ML Researcher @ [RAAPID INC](https://www.raapidinc.com/)** + **SWE Intern @ [C3alabs](https://c3alabs.com/)** — pushing LLM research to production.
 
 ---
 
 ### 🔷 current work
 
 - **[BlinkAI](https://github.com/MohitGoyal09/BlinkAI)** — Privacy-first AI desktop assistant that eliminates context-switching
-  - Voice input, screen capture + OCR, Gmail/GitHub/Calendar/WhatsApp integrations via Composio (240+ tools)
-  - Autopilot mode for autonomous task handling · Built with Electron, React, TypeScript, AWS, Mastra
-
-- **[MemexLLM](https://github.com/MohitGoyal09/MemexLLM)** — RAG document intelligence platform
-  - Hybrid search + reranking, PDF/audio/web ingestion, AI chat with source citations
-  - Built with Next.js 14, TypeScript, Supabase, FastAPI
-
+- **[MemexLLM](https://github.com/MohitGoyal09/MemexLLM)** - production-style end-to-end RAG platform that ingests documents, performs hybrid retrieval with reranking, and delivers context-aware LLM responses through a scalable full-stack architecture.
 - **[Paper-Replicating](https://github.com/MohitGoyal09/Paper-Replicating)** — Converting ML papers to working PyTorch implementations
-  - LLaMA architecture, attention variants, PEFT methods
-
 - **[ai-agents](https://github.com/MohitGoyal09/ai-agents)** — Production AI agents built with LangGraph
-  - Tool use, memory, multi-agent orchestration patterns
-
-- **[lms](https://github.com/MohitGoyal09/lms)** — Full-stack learning management system
-  - Next.js, TypeScript, Supabase
-
-- **[DSA](https://github.com/MohitGoyal09/DSA)** — Data structures & algorithms in Java
-  - 26 stars · actively maintained reference
+- **[Artifical Guruji](https://github.com/MohitGoyal09/lms)** — Full-stack learning management system
+- **[DSA](https://github.com/MohitGoyal09/DSA)** — Data structures & algorithms in Java  · 26 stars · actively maintained reference
 
 ---
 

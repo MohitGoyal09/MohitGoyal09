@@ -13,6 +13,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mohit098)
 
 [![GitHub followers](https://img.shields.io/github/followers/MohitGoyal09?style=for-the-badge&logo=github&label=Follow&color=181717)](https://github.com/MohitGoyal09)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/MohitGoyal09)
 
 </div>
 
@@ -32,7 +33,7 @@
 ### 🔷 track record
 
 ```
-2x arXiv + IEEE Publication   ·  3 Internships  ·  68 Repos  ·  80 Followers
+2x arXiv + IEEE Publication   ·  3 Internships  ·  14x hackathon wins  ·  80 Followers
 ```
 
 Currently **ML Researcher @ RAAPID INC** + **SWE Intern @ C3alabs** — pushing LLM research to production.
@@ -91,14 +92,19 @@ I build from zero. Whether it's implementing LLaMA straight from the paper, wiri
 
 <div align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=MohitGoyal09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" /> -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohitGoyal09&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165" />
+<a href="https://github.com/MohitGoyal09">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohitGoyal09&theme=tokyonight" height="180" />
+</a>
+<a href="https://github.com/Pulkit7070">
+  <img src="https://streak-stats.demolab.com/?user=MohitGoyal09&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="180" />
+</a>
 
 </div>
 
 <div align="center">
 
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohitGoyal09&theme=tokyonight" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohitGoyal09&theme=tokyonight" height="180" />
 
 </div>
 
@@ -120,9 +126,9 @@ If you're building production AI — agents, RAG, or LLM infrastructure — I wo
 
 <div align="center">
 
-[![Let's Talk](https://img.shields.io/badge/Let's_Talk-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-goyal09)
-[![See My Work](https://img.shields.io/badge/See_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohitx.in)
-[![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitgoyal09042006@gmail.com)
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor_My_Work-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/MohitGoyal09)
+[![Hire Me](https://img.shields.io/badge/Let's_Talk-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-goyal09)
+[![Portfolio](https://img.shields.io/badge/See_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohitx.in)
 
 </div>
 

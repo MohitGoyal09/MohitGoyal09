@@ -33,7 +33,7 @@
 ### 🔷 track record
 
 ```
-2x arXiv + IEEE Publication   ·  3 Internships  ·  15x hackathon wins 
+2x arXiv + IEEE Publication   · 1 Research Square PrePrint · 3 Internships  ·  15x hackathon wins 
 ```
 
 Currently **ML Researcher @ [RAAPID INC](https://www.raapidinc.com/)** + **SWE Intern @ [C3alabs](https://c3alabs.com/)** — pushing LLM research to production.

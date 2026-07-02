@@ -33,21 +33,21 @@
 ### 🔷 track record
 
 ```
-3 publications/preprints  ·  15x hackathon wins  ·  ML Researcher @ Raapid  ·  SWE Intern @ C3alabs
+3 publications/preprints  ·  15x hackathon wins  ·  Amazon ML Summer School 2026  ·  ML Researcher @ Raapid  ·  SWE Intern @ C3alabs
 ```
 
-Currently **ML Researcher @ [Raapid Inc](https://www.raapidinc.com/)** + **SWE Intern @ [C3alabs](https://c3alabs.com/)** — building across LLM optimization, RAG, agents, evals, and production AI systems.
+Currently **ML Researcher @ [Raapid Inc](https://www.raapidinc.com/)**, **SWE Intern @ [C3alabs](https://c3alabs.com/)**, and **Full Stack Developer Intern @ ArmorIQ**. I build across LLM optimization, RAG, agents, evals, and production AI systems.
 
 ---
 
 ### 🔷 current work
 
-- **[AgentForge](https://github.com/MohitGoyal09/AgentForge)** — Published Python terminal AI coding-agent harness with typed tools, approval gates, MCP tools, subagents, checkpoints, event logs, restore flows, and a Rich TUI
-- **[MemexLLM](https://github.com/MohitGoyal09/MemexLLM)** — Deployed RAG platform with hybrid semantic + BM25 retrieval, Cohere reranking, Qdrant vector search, LlamaIndex orchestration, citations, and confidence thresholds
-- **[BlinkAI](https://github.com/MohitGoyal09/BlinkAI)** — Privacy-first desktop AI assistant with voice input, screen context, memory, MCP/Composio tool routing, and workflow automation
-- **[Artificial Guruji](https://github.com/MohitGoyal09/Artifiical-guruji)** — AI-powered exam-prep platform for personalized study plans, flashcards, quizzes, and learning workflows
-- **[Paper-Replicating](https://github.com/MohitGoyal09/Paper-Replicating)** — Converting ML papers and research ideas into working notebooks and Python implementations
-- **[DSA](https://github.com/MohitGoyal09/DSA)** — Data structures and algorithms in Java
+- **[AgentForge](https://github.com/MohitGoyal09/AgentForge)**: published Python terminal AI coding-agent harness with typed tools, approval gates, MCP tools, subagents, checkpoints, event logs, restore flows, and a Rich TUI
+- **[MemexLLM](https://github.com/MohitGoyal09/MemexLLM)**: deployed RAG platform with hybrid semantic and BM25 retrieval, Cohere reranking, Qdrant vector search, LlamaIndex orchestration, citations, and confidence thresholds
+- **[BlinkAI](https://github.com/MohitGoyal09/BlinkAI)**: privacy-first desktop AI assistant with voice input, screen context, memory, MCP/Composio tool routing, and workflow automation
+- **[Artificial Guruji](https://github.com/MohitGoyal09/Artifiical-guruji)**: AI-powered exam-prep platform for personalized study plans, flashcards, quizzes, and learning workflows
+- **[Paper-Replicating](https://github.com/MohitGoyal09/Paper-Replicating)**: converting ML papers and research ideas into working notebooks and Python implementations
+- **[DSA](https://github.com/MohitGoyal09/DSA)**: data structures and algorithms in Java
 
 ---
 
@@ -70,16 +70,16 @@ Currently **ML Researcher @ [Raapid Inc](https://www.raapidinc.com/)** + **SWE I
 
 ### 🔷 building from zero
 
-I build from zero. Whether it's implementing transformers from the paper, wiring agent systems into production workflows, or co-developing research around PEFT optimization — I work from first principles to shipped systems. Research tells me what's possible. Building tells me what's true.
+I build from zero. Whether it is implementing transformers from the paper, wiring agent systems into production workflows, or co-developing research around PEFT optimization, I work from first principles to shipped systems. Research tells me what's possible. Building tells me what's true.
 
 ---
 
 ### 🔷 currently exploring
 
-- **LLM optimization** — PEFT, K-FAC preconditioning, dynamic rank adaptation, benchmark-driven evaluation
-- **RAG systems** — hybrid retrieval, reranking, citations, confidence thresholds, long-context document reasoning
-- **AI agent systems** — tool orchestration, MCP, approval gates, persistence, evals, and multi-agent patterns
-- **Production AI** — structured outputs, memory, audit trails, human-in-the-loop review, regression tests, fallback paths
+- **LLM optimization**: PEFT, K-FAC preconditioning, dynamic rank adaptation, benchmark-driven evaluation
+- **RAG systems**: hybrid retrieval, reranking, citations, confidence thresholds, long-context document reasoning
+- **AI agent systems**: tool orchestration, MCP, approval gates, persistence, evals, and multi-agent patterns
+- **Production AI**: structured outputs, memory, audit trails, human-in-the-loop review, regression tests, fallback paths
 
 ---
 
@@ -115,9 +115,9 @@ I build from zero. Whether it's implementing transformers from the paper, wiring
 
 ### 💼 work with me
 
-I'm open to **research collaborations, internships, and full-time roles** in ML engineering, AI systems, agent infrastructure, RAG, or full-stack AI development.
+I am open to **research collaborations, internships, and full-time roles** in ML engineering, AI systems, agent infrastructure, RAG, or full-stack AI development.
 
-If you're building production AI — agents, RAG, evals, or LLM infrastructure — I work from paper to deployment and ship systems that can be inspected, tested, and improved.
+If you are building production AI, whether agents, RAG, evals, or LLM infrastructure, I work from paper to deployment and ship systems that can be inspected, tested, and improved.
 
 <div align="center">
 

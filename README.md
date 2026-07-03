@@ -36,7 +36,7 @@
 3 publications/preprints  ·  15x hackathon wins  ·  Amazon ML Summer School 2026  ·  ML Researcher @ Raapid  ·  SWE Intern @ C3alabs
 ```
 
-Currently **ML Researcher @ [Raapid Inc](https://www.raapidinc.com/)**, **SWE Intern @ [C3alabs](https://c3alabs.com/)**, and **Full Stack Developer Intern @ ArmorIQ**. I build across LLM optimization, RAG, agents, evals, and production AI systems.
+Currently **ML Researcher @ [Raapid Inc](https://www.raapidinc.com/)** and **SWE Intern @ [C3alabs](https://c3alabs.com/)**. I build across LLM optimization, RAG, agents, evals, and production AI systems.
 
 ---
 

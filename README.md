@@ -37,7 +37,7 @@
 ```
 
 
-Currently **ML Researcher @ [Raapid Inc](https://www.raapidinc.com/)** and **SWE Intern @ [C3alabs](https://c3alabs.com/)**. I build across LLM optimization, RAG, agents, evals, and production AI systems.
+Currently **SWE Intern @ [C3alabs](https://c3alabs.com/)**. I build across LLM optimization, RAG, agents, evals, and production AI systems.
 
 ---
 

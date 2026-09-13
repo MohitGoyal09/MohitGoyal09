@@ -33,7 +33,7 @@
 ### 🔷 track record
 
 ```
-3 publications/preprints  ·  15x hackathon wins  ·  Amazon ML Summer School 2026  ·  ML Researcher @ Raapid  ·  SWE Intern @ C3alabs
+AI Engineer @Lenskart · 3 publications/preprints  ·  15x hackathon wins  ·  Amazon ML Summer School 2026  
 ```
 
 

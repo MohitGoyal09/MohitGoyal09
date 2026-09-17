@@ -37,7 +37,7 @@ AI Engineer @Lenskart · 3 publications/preprints  ·  15x hackathon wins  ·  A
 ```
 
 
-Currently **SWE Intern @ [C3alabs](https://c3alabs.com/)**. I build across LLM optimization, RAG, agents, evals, and production AI systems.
+Currently **AI Engineer @ [Lenskart](https://lenskart.com/)**. I build across LLM optimization, RAG, agents, evals, and production AI systems.
 
 ---
 

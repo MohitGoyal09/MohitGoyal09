@@ -30,16 +30,8 @@
 
 ---
 
-### 🔷 track record
-
-```
-AI Engineer @Lenskart · 3 publications/preprints  ·  15x hackathon wins  ·  Amazon ML Summer School 2026  
-```
 
 
-Currently **AI Engineer @ [Lenskart](https://lenskart.com/)**. I build across LLM optimization, RAG, agents, evals, and production AI systems.
-
----
 
 ### 🔷 current work
 
